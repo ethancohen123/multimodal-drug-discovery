@@ -3,7 +3,7 @@
 Project by OpenBioML community to learn multi modal representation learning from structure and other modalities (images,text, ..).
 
 
-##Image-structure dataset
+## Image-structure dataset
 
 A dataset of 30K compound and ~1M images is available here https://github.com/gigascience/paper-bray2017.
 Quite messy to dowload everything with the metadata, also need to remove DMSO (no compound), they did those kind of things in https://openreview.net/pdf?id=OdXKRtg1OG
