@@ -11,4 +11,5 @@ but did not release their code or dataset yet (will be updated on https://github
 
 There is a subset of this dataset containing 10.5K compound with their associated images and could be a way to start since it is quite easy to download and the metadata
 are also easily available at https://github.com/ml-jku/hti-cnn with the metadata in datasplit. 
+We will start by a subset of this to experiment quickly ( 1/10 of the data)
 
