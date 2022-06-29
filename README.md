@@ -11,5 +11,9 @@ but did not release their code or dataset yet (will be updated on https://github
 
 There is a subset of this dataset containing 10.5K compound with their associated images and could be a way to start since it is quite easy to download and the metadata
 are also easily available at https://github.com/ml-jku/hti-cnn with the metadata in datasplit. 
+
+## Get started with few data
+
 We will start by a subset of this to experiment quickly ( 1/10 of the data)
+To download this dataset go to https://ml.jku.at/software/cellpainting/dataset/ (in https://github.com/ml-jku/hti-cnn) and download dataset00 then untar in some folder like images00. The metadata associated are in data/metadata. Some dataloader functions that returns image/structure pairs are in dataset. There is an example on how it works on test_dataloader.py 
 
